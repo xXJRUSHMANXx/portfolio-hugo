@@ -2,5 +2,5 @@ baseURL = 'https://xXJRUSHMANXx.github.io/'
 languageCode = 'en-us'
 title = 'Alexanders Portfolio'
 theme = 'PaperMod'
-[params]
-  disableHomeContent = false
+disableHomeContent = false
+disableHomepageContent = false
