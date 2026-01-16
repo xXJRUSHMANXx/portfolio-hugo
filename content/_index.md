@@ -1,14 +1,14 @@
----
++++
 
-title: "Benvingut al meu Portfolio"
+title = "Benvingut al meu Portfolio"
 
-description: "Enginyeria, fabricació additiva, CAD, energia renovable i projectes reals."
+description = "Enginyeria, fabricació additiva, CAD, energia renovable i projectes reals."
 
-showReadingTime: false
+showReadingTime = false
 
-showToc: false
+showToc = false
 
----
++++
 
 
 
